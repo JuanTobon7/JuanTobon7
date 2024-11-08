@@ -4,8 +4,10 @@ I'm a student at **University of Los Llanos**, a developer, and an enthusiastic 
 
 - 🌱 I’m currently learning **PHP** and improving my **English**.
 - 🚀 I focus on **web development** and creating efficient, robust applications.
-- 🎯 2023 Goals: Enhance my skills in PHP, contribute to open-source projects, and expand my coding knowledge.
-- ⚡ Fun fact: I love to learn and explore new technologies in my free time.
+- ⚽ I enjoy playing football and practiced boxing for three years.
+- 🙏 I am grateful to God for always being by my side and guiding me.
+- 🎯 2025 Goals: Enhance my skills in PHP, contribute to open-source projects, and expand my coding knowledge.
+- 😄 Fun fact: I'm always full of energy and happiness, ready to face challenges with a smile. I can be serious when coding, but I'm a cheerful and positive person who loves to connect with others.
 
 ---
 
