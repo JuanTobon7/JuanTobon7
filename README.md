@@ -5,7 +5,7 @@ I'm a 20-year-old student at **University of Los Llanos**, a developer, and an e
 - 🌱 I’m currently learning **PHP** and improving my **English**.
 - 🎸 I enjoy playing the guitar during my free time.
 - ⚽ I love playing football and practiced boxing for three years.
-- 🙏 I am grateful to GOD for always being by my side and guiding me.
+- 🙏 I am grateful to God for always being by my side and guiding me.
 - 🎯 2023 Goals: Enhance my skills in PHP, contribute to open-source projects, and expand my coding knowledge.
 - 😄 Fun fact: I'm always full of energy and happiness, ready to face challenges with a smile. I can be serious when coding, but I'm a cheerful and positive person who loves to connect with others.
 
