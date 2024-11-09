@@ -1,6 +1,6 @@
 ## Hi there, I'm Juan Tobón! 👋
 
-I'm a 20-year-old student at **University of Los Llanos**, a developer, and an enthusiastic learner!
+I'm a 20-year-old student at **Universidad de los Llanos**, a developer, and an enthusiastic learner!
 
 - 🌱 I’m currently learning **PHP** and improving my **English**.
 - 🎸 I enjoy playing the guitar during my free time.
