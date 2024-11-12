@@ -12,7 +12,7 @@ I'm a 20-year-old student at **Universidad de los Llanos**, a developer, and an 
 ---
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-tobón/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-tobon-3188a02ba/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jctobon11.2@gmail.com)
 
 ### Languages and Tools:
